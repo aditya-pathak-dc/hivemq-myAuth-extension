@@ -1,0 +1,12 @@
+version=1.0.0
+#
+# main dependencies
+#
+hivemq-extension-sdk.version=4.0.0
+#
+# plugins
+#
+plugin.hivemq-extension.version=2.1.2
+plugin.license.version=0.16.1
+plugin.defaults.version=0.2.0
+plugin.asciidoctor.version=3.3.2
